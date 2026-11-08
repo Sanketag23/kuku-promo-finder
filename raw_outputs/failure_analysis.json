@@ -1,0 +1,24 @@
+{
+  "summary": "Automated tools struggle primarily in three structural microdrama scenarios where screenplay text departs from visual/narrative nuance.",
+  "failure_categories": [
+    {
+      "category": "Visual Comedy & Silent Dramatic Pauses",
+      "risk_level": "High",
+      "explanation": "Scenes with minimal dialogue but high visual tension (e.g., intense 5-second eye contact or a physical comedic gesture) receive lower text-heuristic scores despite being great video clips.",
+      "example": "Episode 12: A scene consisting mostly of silent stares between guards and Juliana is under-ranked because text parser sees low word count."
+    },
+    {
+      "category": "Heavy Lore & Cross-Episode Dependencies",
+      "risk_level": "Medium",
+      "explanation": "Clips with intense shouting about past lineage, obscure family names, or deep legal contracts score high on emotion keywords but fail the 'Standalone' test for a cold viewer on TikTok who has never watched the series.",
+      "example": "Episode 34: Characters arguing passionately about inheritance bylaws scores 9.2 on emotion but confuses a first-time viewer without prior 30 episodes context."
+    },
+    {
+      "category": "Subtle Escalations vs. Abrupt Slaps",
+      "risk_level": "Medium",
+      "explanation": "Slow-burn psychological manipulation scenes get cut mid-build because the heuristic looks for immediate explosive words in the first 3 seconds.",
+      "example": "Episode 21: A quiet, chilling whisper dialogue gets deprioritized over a louder but less sophisticated shouting match."
+    }
+  ],
+  "mitigation_strategy": "1. Add visual frame analysis (multimodal video model) when video renders exist. 2. Human editor in the loop for final pass/approval via the Streamlit review dashboard."
+}

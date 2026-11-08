@@ -1,0 +1,846 @@
+[
+  {
+    "rank": 1,
+    "promo_id": "KUKU-MONTAGE-01",
+    "type": "multi_segment_montage",
+    "episode": "Montage (Ep 1 + Ep 3)",
+    "segments": [
+      {
+        "segment_num": 1,
+        "episode": 1,
+        "start_time": "00:40.00",
+        "end_time": "01:03.00",
+        "duration_sec": 23.0,
+        "content": "Segment 1: The Altar Betrayal. Juliana watches her sister steal her groom: \"Because he is marrying me!\" Groom: \"I changed my mind.\""
+      },
+      {
+        "segment_num": 2,
+        "episode": 3,
+        "start_time": "02:00.00",
+        "end_time": "02:22.00",
+        "duration_sec": 22.0,
+        "content": "Segment 2: The Duke Proposal. Imposing scarred stranger drops to one knee before the stunned congregation: \"Lady Juliana... accept my hand!\""
+      }
+    ],
+    "start_time": "Ep1 00:40.00 | Ep3 02:00.00",
+    "end_time": "Ep1 01:03.00 | Ep3 02:22.00",
+    "start_sec": 40.0,
+    "end_sec": 142.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.85,
+    "breakdown_scores": {
+      "hook": 9.9,
+      "cliffhanger": 9.8,
+      "standalone": 9.8,
+      "emotional": 9.9,
+      "visual": 9.8
+    },
+    "hook": "Extreme Betrayal vs. Royal Vindication: Opens with sister stealing Juliana's groom at the altar (\"Because he is marrying me!\").",
+    "cliffhanger": "Cuts precisely as the rugged scarred Duke drops to one knee offering the ring: \"Lady Juliana... accept my hand!\" before she answers.",
+    "why_it_works": "The quintessential ReelShort/DramaBox viral formula: Humiliation setup followed immediately by massive romantic redemption/status reversal.",
+    "suggested_caption": "Her sister stole her fianc\u00e9 at the altar... but a Duke chose her instead \ud83d\udc51\ud83d\udc8d #MicroDrama #Revenge",
+    "posting_recommendation": "PRIMARY HERO MONTAGE (Post #1): Highest viral converting ad creative across TikTok & Meta Ads Manager.",
+    "characters_involved": [
+      "Lady Juliana",
+      "Lady in Gold Gown",
+      "Gerald",
+      "The Bearded Stranger (Duke Alexander)"
+    ],
+    "script_excerpt": "[SEGMENT 1 - Ep 1 Betrayal (23s)]\nLADY IN GOLD GOWN: \"Because he is marrying me.\"\nLADY JULIANA: \"No...\"\nTHE FORMER GROOM: \"I changed my mind.\"\n\n--- [SMASH CUT TO 10 MINUTES LATER] ---\n\n[SEGMENT 2 - Ep 3 The Duke's Counter-Proposal (22s)]\nACTION: The Bearded Stranger effortlessly blocks the royal guard and steps up to Juliana.\nACTION: The Bearded Stranger slowly drops onto one knee on the cathedral aisle, offering the silver ring.\nSOUND FX: A collective, stunned gasp rippling across the entire congregation.\nTHE BEARDED STRANGER: \"Lady Juliana... accept my hand.\"\nCAMERA: Close-up on Juliana looking down in disbelief... [FADE CUT]",
+    "virality_analysis": {
+      "archetype_name": "Altar Humiliation & Betrayal",
+      "primary_trigger": "Moral Outrage / Empathy",
+      "recommended_platform": "TikTok & Meta Reels (Broadest Demographics)",
+      "expected_ctr_range": "High (4.8% - 6.2%)",
+      "creative_virality_index": 99.4,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "WHEN YOUR OWN SISTER MARRIES YOUR FIANC\u00c9 AT THE ALTAR \ud83d\udc94 | feat. Lady Juliana",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "She thought it was her wedding day... until she saw who was holding his hand \ud83d\ude31",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "'I changed my mind.' The 4 words that ruined her life \ud83d\ude2d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at Ep1 01:03.00 | Ep3 02:22.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 2,
+    "promo_id": "KUKU-PROMO-01",
+    "episode": 1,
+    "episode_file": "episode-001-Episode 1671703.txt",
+    "start_time": "00:40.00",
+    "end_time": "01:15.00",
+    "start_sec": 40.0,
+    "end_sec": 75.0,
+    "duration_sec": 35.0,
+    "composite_score": 9.65,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.8,
+      "visual": 8.5
+    },
+    "hook": "Cinematic punch: Close-up on the Lady in Gold Gown beaming with cru; Lady In Gold Gown (gloating, smug) says: \"Because he is marrying me.\"",
+    "cliffhanger": "Final frame: Close-up on Juliana, stunned by the callous d; Cuts on unanswered question \u2014 Lady Juliana: \"How long?\"",
+    "why_it_works": "Multi-character clash between Lady In Gold Gown, Lady Juliana, The Former Groom; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (choking on tears, outraged, accusing, gloating, smug)",
+    "suggested_caption": "\"You let me believe I was walking toward my husb...\" \ud83d\ude31 #MicroDrama #ShortSeries",
+    "posting_recommendation": "PRIMARY LAUNCH AD (Post #1): Universal wedding betrayal hook with highest viral stopping power across demographics.",
+    "characters_involved": [
+      "LADY IN GOLD GOWN",
+      "LADY JULIANA",
+      "THE FORMER GROOM"
+    ],
+    "script_excerpt": "[00:39.00 - 00:41.50] [CAMERA]: Close-up on the Lady in Gold Gown beaming with cruel triumph.\n[00:39.10 - 00:41.20] LADY IN GOLD GOWN (Gloating, Smug): \"\"Because he is marrying me.\"\"\n[00:41.50 - 00:43.90] [CAMERA]: Close-up on Juliana as tears spill over her eyelashes.\n[00:41.70 - 00:43.10] LADY JULIANA (Gasping, Devastated): \"\"No...\"\"\n[00:43.90 - 00:46.80] [CAMERA]: Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister.\n[00:46.80 - 00:50.40] [CAMERA]: Close-up on Juliana clutching her chest, her sorrow turning into burning outrage.\n[00:46.80 - 00:50.00] LADY JULIANA (Outraged, Accusing): \"\"You knew this before I walked through those doors!\"\"\n[00:50.40 - 00:52.00] [CAMERA]: Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown.\n[00:52.00 - 00:54.60] [CAMERA]: Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric.\n[00:52.80 - 00:54.60] LADY JULIANA (Choking on Tears): \"\"You let me come here...\"\"\n[00:54.60 - 00:57.60] [CAMERA]: Close-up on Juliana's tear-streaked face as she shakes with grief.\n[00:54.70 - 00:56.90] LADY JULIANA (Crushed, Shaking): \"\"You let me dress in my mother's gown...\"\"\n[00:57.00 - 01:00.00] LADY JULIANA (Crying Out): \"\"You let me believe I was walking toward my husband!\"\"\n[00:57.60 - 01:00.10] [CAMERA]: Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him.\n[01:00.10 - 01:03.00] [CAMERA]: Tight close-up on Gerald's hardened profile as he glances down.\n[01:00.10 - 01:01.80] THE FORMER GROOM (Cold, Callous): \"\"I changed my mind.\"\"\n[01:03.00 - 01:06.00] [CAMERA]: Extreme close-up on Juliana's furious, weeping face.\n[01:03.40 - 01:05.60] LADY JULIANA (Betrayed, Piercing): \"\"You swore you loved me!\"\"\n[01:06.00 - 01:08.80] [CAMERA]: Close-up on the Lady in Gold Gown smiling condescendingly.\n[01:06.50 - 01:08.80] LADY IN GOLD GOWN (Mocking): \"\"People change their minds, sister.\"\"\n[01:08.80 - 01:12.40] [CAMERA]: Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice.\n[01:09.10 - 01:10.40] LADY JULIANA (Horrified): \"\"And you knew?\"\"\n[01:10.60 - 01:12.10] LADY IN GOLD GOWN (Unapologetic, Cheerful): \"\"Of course I knew.\"\"\n[01:12.40 - 01:14.60] [CAMERA]: Close-up on Juliana, stunned by the callous depth of the conspiracy.\n[01:13.10 - 01:14.30] LADY JULIANA (Trembling): \"\"How long?\"\"\n[01:14.60 - 01:19.00] [CAMERA]: Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana.\n[01:15.00 - 01:18.50] LADY IN GOLD GOWN (Cruel, Poised): \"\"Long enough to know he was never going to marry you.\"\"",
+    "virality_analysis": {
+      "archetype_name": "Altar Humiliation & Betrayal",
+      "primary_trigger": "Moral Outrage / Empathy",
+      "recommended_platform": "TikTok & Meta Reels (Broadest Demographics)",
+      "expected_ctr_range": "High (4.8% - 6.2%)",
+      "creative_virality_index": 99.0,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "WHEN YOUR OWN SISTER MARRIES YOUR FIANC\u00c9 AT THE ALTAR \ud83d\udc94 | feat. Lady In Gold Gown",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "She thought it was her wedding day... until she saw who was holding his hand \ud83d\ude31",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "'I changed my mind.' The 4 words that ruined her life \ud83d\ude2d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 01:15.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 3,
+    "promo_id": "KUKU-PROMO-02",
+    "episode": 11,
+    "episode_file": "episode-011-Episode 1671713.txt",
+    "start_time": "00:20.00",
+    "end_time": "01:05.00",
+    "start_sec": 20.0,
+    "end_sec": 65.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.65,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.8,
+      "visual": 8.5
+    },
+    "hook": "Cinematic punch: Close-up of Juliana recoiling in utter disbelief.; Juliana (incredulous, gasping) says: \"What? When?\"",
+    "cliffhanger": "Final frame: Low-angle close-up of Juliana crawling on the; Juliana delivers: \"Please! There is nothing here!\" \u2014 then cut",
+    "why_it_works": "Multi-character clash between Gerald, Alexander, Juliana; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (contemptuous, outraged, smug, threatening, incredulous, gasping)",
+    "suggested_caption": "\"Please! There is nothing here!\" \ud83d\udc80 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Post #2: High-octane romantic/status conflict; test against audience segment liking revenge tropes.",
+    "characters_involved": [
+      "GERALD",
+      "CONSTABLE",
+      "ALEXANDER",
+      "JULIANA"
+    ],
+    "script_excerpt": "[00:18.50 - 00:20.00] [CAMERA]: Close-up of Juliana recoiling in utter disbelief.\n[00:19.00 - 00:20.00] JULIANA (Incredulous, Gasping): \"\"What? When?\"\"\n[00:20.00 - 00:22.00] [CAMERA]: Close-up of Gerald narrowing his eyes vindictively.\n[00:20.90 - 00:22.30] GERALD (Cold, Certain): \"\"The last time I came here.\"\"\n[00:22.00 - 00:24.60] [CAMERA]: Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.\n[00:23.00 - 00:24.80] JULIANA (Contemptuous, Outraged): \"\"You never even entered the cottage!\"\"\n[00:24.60 - 00:26.90] [CAMERA]: Close-up of Gerald smirking with condescending amusement.\n[00:25.20 - 00:27.00] GERALD (Smug, Threatening): \"\"Then you should have nothing to fear from a search.\"\"\n[00:26.90 - 00:28.90] [CAMERA]: Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.\n[00:27.30 - 00:29.00] JULIANA (Adamant, Protective): \"\"Alexander would never steal from you.\"\"\n[00:28.90 - 00:32.40] [CAMERA]: Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.\n[00:29.30 - 00:32.80] GERALD (Mocking, Spiteful): \"\"Of course you would defend him. You married a beggar!\"\"\n[00:32.40 - 00:34.90] [CAMERA]: Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.\n[00:33.00 - 00:34.90] ALEXANDER (Low, Menacing): \"\"Choose your next words carefully.\"\"\n[00:34.90 - 00:37.00] [CAMERA]: Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm.\n[00:35.10 - 00:37.10] GERALD (Shouting, Dramatic): \"\"You hear that? He threatens me again!\"\"\n[00:37.00 - 00:39.10] [CAMERA]: Medium shot of the Constable marching into frame between them, holding his truncheon horizontally.\n[00:37.40 - 00:39.20] CONSTABLE (Authoritative, Stern): \"\"I have received a complaint of theft.\"\"\n[00:39.10 - 00:41.00] [CAMERA]: Extreme close-up of Juliana, defiant and resolute.\n[00:39.70 - 00:41.10] JULIANA (Fierce): \"\"A complaint is not proof.\"\"\n[00:41.00 - 00:43.30] [CAMERA]: Close-up of the Constable gesturing with his truncheon toward the cottage door.\n[00:41.40 - 00:43.30] CONSTABLE (Cold, Procedural): \"\"Then a search will settle the matter.\"\"\n[00:43.30 - 00:46.00] [CAMERA]: Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance.\n[00:43.50 - 00:46.30] JULIANA (Desperate, Shouting): \"\"You cannot simply invade our home because this man makes an accusation!\"\"\n[00:46.00 - 00:47.80] [CAMERA]: Medium close-up of Gerald crossing his arms smugly.\n[00:46.80 - 00:48.30] GERALD (Taunting): \"\"If he has nothing to hide...\"\"\n[00:47.80 - 00:50.80] [CAMERA]: Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint.\n[00:48.40 - 00:50.00] GERALD (O.S.) (Smug): \"\"...let the constable search.\"\"\n[00:50.10 - 00:51.00] ALEXANDER (Dark, Grated): \"\"Search it.\"\"\n[00:50.80 - 00:53.60] [CAMERA]: Medium two-shot of Juliana looking up at Alexander in panicked confusion.\n[00:52.80 - 00:53.60] ALEXANDER (Resigned, Calm): \"\"Let them.\"\"\n[00:54.00 - 00:56.00] [CAMERA]: Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage.\n[00:54.50 - 00:56.50] [SOUND FX]: Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture.\n[00:56.00 - 00:58.00] [ACTION]: The Constable begins violently overturning crates and dumping contents across the floor.\n[00:58.00 - 01:00.00] [CAMERA]: Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards.\n[00:58.00 - 01:00.10] JULIANA (Distressed, Pleading): \"\"Stop! Those are my mother's medicines!\"\"\n[01:00.00 - 01:01.80] [ACTION]: The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.\n[01:01.80 - 01:03.50] [CAMERA]: Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks.\n[01:01.80 - 01:03.80] JULIANA (Crying, Desperate): \"\"Please! There is nothing here!\"\"\n[01:03.50 - 01:05.50] [CAMERA]: Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table.\n[01:03.90 - 01:05.70] CONSTABLE (Cold, Indifferent): \"\"Then you have nothing to fear.\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 99.0,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Gerald",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 01:05.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 4,
+    "promo_id": "KUKU-PROMO-03",
+    "episode": 45,
+    "episode_file": "episode-045-Episode 1686805.txt",
+    "start_time": "00:30.00",
+    "end_time": "01:25.00",
+    "start_sec": 30.0,
+    "end_sec": 85.0,
+    "duration_sec": 55.0,
+    "composite_score": 9.65,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.8,
+      "visual": 8.5
+    },
+    "hook": "Cinematic punch: Close-up two-shot as Alexander tenderly cradles Ju; Alexander (tender, deep) says: \"You chose me when you believed I was nobody.\"",
+    "cliffhanger": "Alexander delivers: \"Lady Juliana Ashcroft is my lawful wife... and the D...\" \u2014 then cut; Final frame: Close-up on Rupert and Mary standing in the p",
+    "why_it_works": "Multi-character clash between Alexander, Catherine, Juliana; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (sincere, loving, low, passionate, tender, deep)",
+    "suggested_caption": "\"You poisoned my mother. You tortured my wife.\" \ud83d\ude24 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Post #3: Strong mystery & character entrance hook; best for mid-funnel TikTok & Reels feed.",
+    "characters_involved": [
+      "CATHERINE",
+      "ALEXANDER",
+      "JULIANA",
+      "RUPERT"
+    ],
+    "script_excerpt": "[00:29.80 - 00:35.80] [CAMERA]: Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand.\n[00:30.20 - 00:33.00] ALEXANDER (Tender, Deep): \"\"You chose me when you believed I was nobody.\"\"\n[00:33.20 - 00:34.90] JULIANA (Sincere, Loving): \"\"I chose you because you were kind.\"\"\n[00:35.10 - 00:36.80] ALEXANDER (Low, Passionate): \"\"You chose me when I had nothing.\"\"\n[00:35.80 - 00:38.50] [CAMERA]: Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence.\n[00:37.00 - 00:38.70] JULIANA (Resolute, Warm): \"\"I chose you because you had honor.\"\"\n[00:38.50 - 00:42.00] [CAMERA]: Tight close-up on Alexander looking deep into Juliana's blue eyes.\n[00:38.80 - 00:41.80] ALEXANDER (Earnest, Devoted): \"\"And I chose you because you saw the man before the title.\"\"\n[00:42.00 - 00:48.90] [CAMERA]: Extreme close-up as Alexander and Juliana rest their foreheads and noses together in an intimate embrace.\n[00:42.20 - 00:48.50] [ACTION]: Alexander and Juliana close their eyes, breathing together with their foreheads pressed gently against one another.\n[00:43.80 - 00:46.00] JULIANA (Soft, Heartfelt): \"\"I loved you before I ever knew who you were.\"\"\n[00:46.10 - 00:48.80] ALEXANDER (Soft, Vowing): \"\"And I loved you before I ever dared to tell you.\"\"\n[00:48.90 - 00:51.80] [CAMERA]: Medium shot as Alexander turns back toward the altar, where Catherine stands in her disheveled wedding gown.\n[00:49.00 - 00:51.50] [ACTION]: Catherine takes a desperate step forward, clutching her skirts and weeping.\n[00:49.80 - 00:51.50] CATHERINE (Pleading, Desperate): \"\"Alexander...\"\"\n[00:51.80 - 00:58.20] [CAMERA]: Medium shot as Alexander steps right up to Catherine, towering over her with righteous fury.\n[00:54.00 - 00:58.00] ALEXANDER (Furious, Cold): \"\"You poisoned my mother. You tortured my wife.\"\"\n[00:58.20 - 01:02.50] [CAMERA]: Extreme close-up split profile between Alexander's angry face and Catherine's gasping, terrified expression.\n[00:58.20 - 00:59.80] CATHERINE (Gasping, Lying): \"\"I didn't know!\"\"\n[01:00.00 - 01:02.40] ALEXANDER (Thunderous, Biting): \"\"You knew exactly what you were doing!\"\"\n[01:02.50 - 01:07.00] [CAMERA]: Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral.\n[01:02.60 - 01:06.80] ALEXANDER (Booming, Condemning): \"\"You hurt the two women who mattered most to me: my mother, and my wife.\"\"\n[01:07.00 - 01:11.20] [CAMERA]: Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview.\n[01:08.80 - 01:10.50] CATHERINE (Trembling, Stunned): \"\"Wife?!\"\"\n[01:11.20 - 01:14.50] [CAMERA]: Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle.\n[01:11.20 - 01:14.50] [ACTION]: Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests.\n[01:11.50 - 01:14.00] ALEXANDER (Authoritative, Resounding): \"\"Before the Crown and before God...\"\"\n[01:14.50 - 01:20.50] [CAMERA]: Medium shot as Alexander stops in the center of the nave and raises Juliana's hand high above their heads.\n[01:14.60 - 01:20.00] [ACTION]: Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility.\n[01:14.80 - 01:20.40] ALEXANDER (Proclaiming, Powerful): \"\"Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\"\"\n[01:20.50 - 01:23.50] [CAMERA]: Close-up on Rupert and Mary standing in the pews, their eyes wide with horrified disbelief.\n[01:21.50 - 01:23.00] RUPERT (Gasping, Shellshocked): \"\"Juliana?!\"\"\n[01:23.50 - 01:26.50] [CAMERA]: Wide shot of Alexander and Juliana standing proudly together, exchanging a loving gaze amid the awestruck crowd.",
+    "virality_analysis": {
+      "archetype_name": "Altar Humiliation & Betrayal",
+      "primary_trigger": "Moral Outrage / Empathy",
+      "recommended_platform": "TikTok & Meta Reels (Broadest Demographics)",
+      "expected_ctr_range": "High (4.8% - 6.2%)",
+      "creative_virality_index": 99.0,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "WHEN YOUR OWN SISTER MARRIES YOUR FIANC\u00c9 AT THE ALTAR \ud83d\udc94 | feat. Catherine",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "She thought it was her wedding day... until she saw who was holding his hand \ud83d\ude31",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "'I changed my mind.' The 4 words that ruined her life \ud83d\ude2d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 01:25.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 5,
+    "promo_id": "KUKU-PROMO-04",
+    "episode": 34,
+    "episode_file": "episode-034-Episode 1681367.txt",
+    "start_time": "01:10.00",
+    "end_time": "02:05.00",
+    "start_sec": 70.0,
+    "end_sec": 125.0,
+    "duration_sec": 55.0,
+    "composite_score": 9.64,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.5,
+      "visual": 9.0
+    },
+    "hook": "Cinematic punch: Close-up of Prudence's tear-streaked face as she h; Prudence (faltering, desperate) says: \"She... placed herbs around my brother's bed.\"",
+    "cliffhanger": "Lady Juliana delivers: \"Herbs are not magic! They are medicine!\" \u2014 then cut; Cuts on unanswered question \u2014 Judge: \"You admit you administered them?\"",
+    "why_it_works": "Multi-character clash between Townsman, Judge, Lady Juliana; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (faltering, desperate, accusatory, forceful, triumphant, smug)",
+    "suggested_caption": "\"You admit you administered them?\" \ud83d\udd25 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Top-tier A/B test ad: highly emotional dialogue cut with rapid cliffhanger resolution.",
+    "characters_involved": [
+      "LORD",
+      "PRUDENCE",
+      "OLD WOMAN",
+      "TOWNSMAN",
+      "LADY JULIANA",
+      "JUDGE"
+    ],
+    "script_excerpt": "[01:06.80 - 01:11.80] [CAMERA]: Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.\n[01:08.20 - 01:11.70] PRUDENCE (Faltering, Desperate): \"\"She... placed herbs around my brother's bed.\"\"\n[01:11.80 - 01:15.80] [CAMERA]: Medium shot of the Judge pointing an outstretched index finger with piercing intensity.\n[01:12.10 - 01:15.50] JUDGE (Accusatory, Forceful): \"\"And did she speak words you could not understand?\"\"\n[01:15.80 - 01:21.00] [CAMERA]: Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.\n[01:18.80 - 01:20.50] PRUDENCE (Weeping, Shaken): \"\"Yes.\"\"\n[01:21.00 - 01:25.20] [CAMERA]: Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge.\n[01:21.30 - 01:24.90] LORD (Triumphant, Smug): \"\"Your Honor... the witness has confirmed the ritual.\"\"\n[01:25.00 - 01:27.20] [ACTION]: Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.\n[01:25.20 - 01:27.40] [CAMERA]: Low-angle medium shot of Lady Juliana gripping the railing, leaning forward.\n[01:25.20 - 01:27.20] LADY JULIANA (Passionate, Indignant): \"\"It was not a ritual!\"\"\n[01:27.20 - 01:30.20] [ACTION]: The Judge repeatedly hammers his gavel down onto the desk, roaring over her.\n[01:27.40 - 01:30.50] [CAMERA]: Medium shot of the Judge striking the wooden block twice in rapid succession.\n[01:27.80 - 01:29.20] [SOUND FX]: [Violent, resonant double bang of the wooden gavel]\n[01:27.90 - 01:30.00] JUDGE (Bellowing): \"\"You will speak when addressed!\"\"\n[01:30.50 - 01:33.80] [CAMERA]: Medium shot of the Lord extending his palm toward the gallery with theatrical composure.\n[01:31.00 - 01:33.20] LORD (Calm, Poisonous): \"\"We have further witnesses.\"\"\n[01:33.80 - 01:38.20] [CAMERA]: Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands.\n[01:34.20 - 01:38.00] TOWNSMAN (Nervous, Fearful): \"\"My wife took one of Lady Juliana's mixtures...\"\"\n[01:38.20 - 01:39.50] [CAMERA]: Close-up of the Judge glaring down expectantly.\n[01:38.30 - 01:39.10] JUDGE (Sharp): \"\"And?\"\"\n[01:39.50 - 01:42.10] [CAMERA]: Close-up of the townsman's face tightening with coached distress.\n[01:39.80 - 01:41.80] TOWNSMAN (Agitated): \"\"She became violently ill.\"\"\n[01:42.10 - 01:47.30] [CAMERA]: Medium shot among the spectators as an elderly peasant woman stands up from the wooden bench, pointing an accusatory finger across the courtroom.\n[01:42.30 - 01:47.00] OLD WOMAN (Shrill, Accusatory): \"\"My daughter drank one of her herbal preparations! She was sick for three days!\"\"\n[01:47.30 - 01:50.00] [CAMERA]: Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye.\n[01:48.00 - 01:49.80] LORD (Mocking, Smug): \"\"She calls it healing.\"\"\n[01:50.00 - 01:52.80] [ACTION]: The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.\n[01:50.00 - 01:52.80] [CAMERA]: Medium shot of the Lord addressing the courtroom.\n[01:50.10 - 01:52.60] LORD (Resonant, Vindicative): \"\"The people call it poisoning!\"\"\n[01:52.80 - 01:55.20] [CAMERA]: Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity.\n[01:53.20 - 01:55.00] LADY JULIANA (Incisive, Defiant): \"\"What were their illnesses?\"\"\n[01:55.20 - 01:57.20] [CAMERA]: Low-angle close-up of the Lord looking down arrogantly over his shoulder.\n[01:55.30 - 01:56.50] LORD (Dismissive): \"\"Irrelevant.\"\"\n[01:57.20 - 01:59.80] [CAMERA]: Close-up of Lady Juliana gritting her teeth in fierce defiance.\n[01:57.40 - 01:59.60] LADY JULIANA (Fierce): \"\"It is not irrelevant!\"\"\n[01:59.80 - 02:03.40] [CAMERA]: Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall.\n[01:59.90 - 02:03.20] LADY JULIANA (Clear, Unyielding): \"\"Herbs are not magic! They are medicine!\"\"\n[02:03.40 - 02:06.80] [CAMERA]: Medium shot of the Judge sitting with steepled fingers upon his high bench.\n[02:03.60 - 02:06.40] JUDGE (Coldly Inquisitive): \"\"You admit you administered them?\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 98.9,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Lord",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 02:05.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 6,
+    "promo_id": "KUKU-PROMO-05",
+    "episode": 33,
+    "episode_file": "episode-033-Episode 1681366.txt",
+    "start_time": "01:30.00",
+    "end_time": "02:15.00",
+    "start_sec": 90.0,
+    "end_sec": 135.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.63,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.6,
+      "visual": 8.5
+    },
+    "hook": "Cinematic punch: Medium close-up of the Lord standing right beside ; Lord (hypnotic, coercive) says: \"Around him.\"",
+    "cliffhanger": "Final frame: Close-up of the Lord calmly watching her futi; Lord delivers: \"That will be your testimony.\" \u2014 then cut",
+    "why_it_works": "Intense face-off between Lord and Maid; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (hypnotic, coercive, coercive, whispering, trap snapping)",
+    "suggested_caption": "\"My testimony?!\" \ud83d\ude31 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Top-tier A/B test ad: highly emotional dialogue cut with rapid cliffhanger resolution.",
+    "characters_involved": [
+      "MAID",
+      "LORD"
+    ],
+    "script_excerpt": "[01:29.00 - 01:34.80] [CAMERA]: Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.\n[01:29.00 - 01:30.50] LORD (Hypnotic, Coercive): \"\"Around him.\"\"\n[01:31.00 - 01:32.50] LORD (Coercive): \"\"Like a circle?\"\"\n[01:33.00 - 01:34.50] MAID (Faint, Defeated): \"\"Yes.\"\"\n[01:34.80 - 01:38.50] [CAMERA]: Close-up from behind the maid as the Lord leans close to her ear.\n[01:35.00 - 01:38.00] LORD (Whispering, Trap Snapping): \"\"And she opened her mother's book...\"\"\n[01:38.50 - 01:40.80] [CAMERA]: Extreme close-up of the maid's tear-drenched eyes and quivering lips.\n[01:38.50 - 01:40.00] MAID (Sobbing): \"\"Yes.\"\"\n[01:40.80 - 01:44.20] [CAMERA]: Close-up of the Lord delivering the final trap.\n[01:41.00 - 01:44.00] LORD (Sinister): \"\"...and spoke words you could not understand.\"\"\n[01:44.20 - 01:47.50] [CAMERA]: Close-up of the maid gasping out in desperate agony.\n[01:44.50 - 01:46.50] MAID (Desperately Defending): \"\"She was praying!\"\"\n[01:47.50 - 01:51.80] [CAMERA]: Close-up of the Lord grinning with sinister triumph.\n[01:48.00 - 01:51.50] LORD (Taunting): \"\"Praying... or chanting?\"\"\n[01:51.80 - 01:53.80] [CAMERA]: Close-up of the maid breaking down completely.\n[01:52.00 - 01:53.50] MAID (Hysterically Sobbing): \"\"I don't know!\"\"\n[01:53.80 - 01:59.50] [CAMERA]: Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.\n[01:54.00 - 01:56.50] LORD (Calculating, Relentless): \"\"You saw a woman draw a circle of herbs.\"\"\n[01:56.80 - 01:59.50] LORD (Relentless): \"\"You saw her use a forbidden book.\"\"\n[01:59.50 - 02:03.50] [CAMERA]: Close-up profile of the Lord leaning in right in front of the sobbing maid.\n[01:59.80 - 02:02.80] LORD (Condemning): \"\"You heard words you could not understand.\"\"\n[02:03.50 - 02:06.80] [CAMERA]: Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.\n[02:04.50 - 02:06.50] LORD (Deadly, Resolute): \"\"That is witchcraft.\"\"\n[02:06.80 - 02:11.80] [CAMERA]: Medium two-shot as the maid steps forward, pleading passionately against his chest.\n[02:06.80 - 02:11.50] MAID (Crying Out, Desperate): \"\"No! She saved Toby! She made him breathe again!\"\"\n[02:11.80 - 02:14.50] [CAMERA]: Close-up of the Lord calmly watching her futile resistance.\n[02:12.00 - 02:14.00] LORD (Cold, Final): \"\"That will be your testimony.\"\"\n[02:14.50 - 02:17.80] [CAMERA]: Close-up of the maid's face frozen in horrified realization.\n[02:14.50 - 02:17.00] MAID (Gasping, Shocked): \"\"My testimony?!\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 98.8,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Maid",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 02:15.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 7,
+    "promo_id": "KUKU-PROMO-06",
+    "episode": 33,
+    "episode_file": "episode-033-Episode 1681366.txt",
+    "start_time": "00:20.00",
+    "end_time": "01:15.00",
+    "start_sec": 20.0,
+    "end_sec": 75.0,
+    "duration_sec": 55.0,
+    "composite_score": 9.63,
+    "breakdown_scores": {
+      "hook": 9.7,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.7,
+      "visual": 9.0
+    },
+    "hook": "Cinematic punch: Medium close-up of the maid nervously wringing her; Maid (faltering) says: \"She... she used herbs.\"",
+    "cliffhanger": "Final frame: Close-up of the maid clutching her chest with; Maid delivers: \"Please, my Lord... he is only seven!\" \u2014 then cut",
+    "why_it_works": "Intense face-off between Lord and Maid; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (stern, whispering, nervous, sharp, intimidating)",
+    "suggested_caption": "\"That is not what I asked.\" \ud83d\ude31 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "MAID",
+      "LORD"
+    ],
+    "script_excerpt": "[00:17.80 - 00:21.00] [CAMERA]: Medium close-up of the maid nervously wringing her apron fabric.\n[00:19.50 - 00:21.00] MAID (Faltering): \"\"She... she used herbs.\"\"\n[00:21.00 - 00:23.00] [CAMERA]: Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down.\n[00:21.20 - 00:22.80] LORD (Sharp, Intimidating): \"\"What herbs?\"\"\n[00:23.00 - 00:26.50] [CAMERA]: Close-up of the frightened maid looking down, shrinking back.\n[00:24.50 - 00:26.20] MAID (Whispering, Nervous): \"\"I don't know.\"\"\n[00:26.50 - 00:29.20] [CAMERA]: Low-angle shot looking up at the imposing Lord towering above her.\n[00:27.50 - 00:29.00] LORD (Stern): \"\"You watched her.\"\"\n[00:29.20 - 00:32.80] [CAMERA]: Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana.\n[00:29.80 - 00:32.00] MAID (Tearful, Sincere): \"\"I watched her save him.\"\"\n[00:32.80 - 00:36.50] [CAMERA]: Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window.\n[00:34.00 - 00:36.20] LORD (Coldly Dismissive): \"\"That is not what I asked.\"\"\n[00:36.50 - 00:40.20] [CAMERA]: Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.\n[00:37.50 - 00:40.00] LORD (Accusatory): \"\"Did she use her mother's book?\"\"\n[00:40.20 - 00:44.20] [CAMERA]: Close-up of the maid trembling, tears spilling down her face.\n[00:42.20 - 00:43.60] MAID (Quietly Weeping): \"\"Yes.\"\"\n[00:44.20 - 00:49.20] [CAMERA]: Close-up of the Lord's sinister, unyielding face.\n[00:44.80 - 00:48.80] LORD (Insistent, Cornering): \"\"Did she prepare things no physician had prescribed?\"\"\n[00:49.20 - 00:52.50] [CAMERA]: Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.\n[00:50.00 - 00:51.60] MAID (Choked Sob): \"\"Yes.\"\"\n[00:52.50 - 00:56.80] [CAMERA]: Close-up of the Lord's mouth curling into a sinister, predatory smile.\n[00:53.00 - 00:56.50] LORD (Sly, Sinister): \"\"And did she perform anything unusual?\"\"\n[00:56.80 - 00:59.00] [CAMERA]: Close-up of the maid gasping, shaking her head vigorously in panic.\n[00:57.40 - 00:58.80] MAID (Desperate, Denying): \"\"No!\"\"\n[00:59.00 - 01:04.20] [CAMERA]: Profile medium two-shot as the Lord looms inches from the maid's face.\n[00:59.00 - 01:01.00] LORD (Low, Menacing): \"\"Think carefully.\"\"\n[01:01.20 - 01:03.50] LORD (Ruthless): \"\"Your brother is still a pauper.\"\"\n[01:04.20 - 01:08.80] [CAMERA]: Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.\n[01:04.40 - 01:08.50] LORD (Threatening): \"\"One word from me, and the county gaol will take him before sunrise.\"\"\n[01:08.50 - 01:10.00] [ACTION]: The maid gasps in sheer terror, her chest heaving as tears stream.\n[01:08.80 - 01:13.20] [CAMERA]: Close-up of the maid clutching her chest with trembling hands, crying desperately.\n[01:09.50 - 01:13.00] MAID (Begging, Heartbroken): \"\"Please, my Lord... he is only seven!\"\"\n[01:13.20 - 01:15.50] [CAMERA]: Close-up of the Lord staring down without an ounce of pity.\n[01:13.20 - 01:15.00] LORD (Cold, Unwavering): \"\"Then help him.\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 98.8,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Maid",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 01:15.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 8,
+    "promo_id": "KUKU-PROMO-07",
+    "episode": 36,
+    "episode_file": "episode-036-Episode 1681369.txt",
+    "start_time": "01:20.00",
+    "end_time": "02:05.00",
+    "start_sec": 80.0,
+    "end_sec": 125.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.62,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.8,
+      "visual": 7.8
+    },
+    "hook": "Cinematic punch: Tight close-up on Alexander's strained, furrowed b; Alexander (tremulous) says: \"I thought perhaps she stayed with you.\"",
+    "cliffhanger": "Final frame: Close-up on his mother as she cries out, deva; Alexander'S Mother delivers: \"They called her a witch!\" \u2014 then cut",
+    "why_it_works": "Intense face-off between Alexander'S Mother and Alexander; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (hesitant, trembling, alarmed, tremulous)",
+    "suggested_caption": "\"You told them the truth!\" \ud83d\udc40 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "ALEXANDER",
+      "ALEXANDER'S MOTHER"
+    ],
+    "script_excerpt": "[01:18.20 - 01:21.80] [CAMERA]: Tight close-up on Alexander's strained, furrowed brow.\n[01:18.80 - 01:21.70] ALEXANDER (Tremulous): \"\"I thought perhaps she stayed with you.\"\"\n[01:21.80 - 01:24.00] [CAMERA]: Close-up of his mother looking up at him, agony and hesitation washing over her face.\n[01:22.00 - 01:23.80] ALEXANDER'S MOTHER (Hesitant, Trembling): \"\"Alexander...\"\"\n[01:24.00 - 01:26.50] [CAMERA]: Quick push-in close-up on Alexander, his eyes snapping open in sudden panic.\n[01:24.40 - 01:25.50] ALEXANDER (Alarmed): \"\"What?\"\"\n[01:26.50 - 01:30.00] [CAMERA]: Close-up on his mother, tears shining in the amber lamplight.\n[01:27.20 - 01:29.80] ALEXANDER'S MOTHER (Choked): \"\"She did come to me.\"\"\n[01:30.00 - 01:33.20] [CAMERA]: Medium two-shot as Alexander bends over the table, crowding his mother with fierce desperation.\n[01:31.00 - 01:33.10] ALEXANDER (Demanding): \"\"Is she still at Ashbourne?\"\"\n[01:33.20 - 01:36.50] [CAMERA]: Close-up on Alexander's mother shutting her eyes and weeping, shaking her head in deep anguish.\n[01:33.50 - 01:35.80] ALEXANDER'S MOTHER (Sobbing): \"\"No...\"\"\n[01:36.50 - 01:39.00] [CAMERA]: Medium shot as Alexander towers over her, his breathing turning ragged.\n[01:36.80 - 01:38.50] ALEXANDER (Desperate): \"\"Then where is she?\"\"\n[01:39.00 - 01:43.50] [CAMERA]: Tight close-up on Alexander's mother crying out in wretched guilt and horror.\n[01:39.50 - 01:43.20] ALEXANDER'S MOTHER (Wailing): \"\"They arrested her!\"\"\n[01:43.50 - 01:45.80] [CAMERA]: Close-up on Alexander, his expression freezing in complete shock.\n[01:44.00 - 01:45.50] ALEXANDER (Stunned): \"\"Arrested?\"\"\n[01:45.80 - 01:50.00] [CAMERA]: Medium close-up as his mother clutches Alexander's forearms with desperate, pleading hands.\n[01:45.90 - 01:49.80] ALEXANDER'S MOTHER (Despairing): \"\"Rupert and Catherine accused her of poisoning me!\"\"\n[01:50.00 - 01:54.00] [CAMERA]: Close-up on Alexander, absolute fury erupting across his scarred face.\n[01:51.80 - 01:53.80] ALEXANDER (Shouting, Incredulous): \"\"But she saved you!\"\"\n[01:54.00 - 01:57.00] [CAMERA]: Close-up on his mother, clutching her chest in grief.\n[01:54.20 - 01:56.50] ALEXANDER'S MOTHER (Weeping): \"\"I told them!\"\"\n[01:57.00 - 01:59.50] [CAMERA]: Medium shot of Alexander clenching his fists at his sides, trembling with rage.\n[01:57.50 - 01:59.30] ALEXANDER (Furious): \"\"You told them the truth!\"\"\n[01:59.50 - 02:03.00] [CAMERA]: Close-up on his mother as she cries out, devastated by the memory of the kangaroo court.\n[01:59.80 - 02:02.50] ALEXANDER'S MOTHER (Agonized): \"\"They called her a witch!\"\"\n[02:03.00 - 02:07.50] [CAMERA]: Frontal medium shot of Alexander standing frozen, the weight of the realization crashing down on him.\n[02:03.80 - 02:06.80] ALEXANDER (Horrified): \"\"Juliana... is in a cell?\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 98.7,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Alexander",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 02:05.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 9,
+    "promo_id": "KUKU-PROMO-08",
+    "episode": 28,
+    "episode_file": "episode-028-Episode 1678581.txt",
+    "start_time": "00:10.00",
+    "end_time": "00:35.00",
+    "start_sec": 10.0,
+    "end_sec": 35.0,
+    "duration_sec": 25.0,
+    "composite_score": 9.6,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.4,
+      "visual": 8.3
+    },
+    "hook": "Catherine (accusing, smug) says: \"...herbs in her pockets...\"; Catherine (cold) says: \"...a secret medicine in her hand.\"",
+    "cliffhanger": "Final frame: Close-up of Juliana, tears of relief welling ; Juliana delivers: \"Your Grace...\" \u2014 then cut",
+    "why_it_works": "Multi-character clash between Blond Nobleman, Catherine, Juliana; explosive verbal confrontation creates instant dramatic stakes; emotional range (cold, venomous, furious, defiant)",
+    "suggested_caption": "\"I did not poison her! Look at her eyes, the fev...\" \ud83d\udc40 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "BLOND NOBLEMAN",
+      "CATHERINE",
+      "DOWAGER DUCHESS",
+      "JULIANA"
+    ],
+    "script_excerpt": "[00:04.70 - 00:10.00] [CAMERA]: Medium two-shot tracking Catherine as she strides gracefully across the chamber toward Juliana, Rupert standing stoically behind her near the bed.\n[00:08.20 - 00:12.60] [CAMERA]: Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard.\n[00:08.40 - 00:10.00] CATHERINE (Accusing, Smug): \"\"...herbs in her pockets...\"\"\n[00:10.20 - 00:12.30] CATHERINE (Cold): \"\"...a secret medicine in her hand.\"\"\n[00:12.60 - 00:15.20] [CAMERA]: Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure.\n[00:12.70 - 00:15.00] CATHERINE (Venomous): \"\"She looks exactly like a poisoner.\"\"\n[00:15.20 - 00:18.50] [CAMERA]: Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder.\n[00:15.30 - 00:18.40] JULIANA (Furious, Defiant): \"\"I did not poison her! Look at her eyes, the fever has broken!\"\"\n[00:18.50 - 00:22.80] [CAMERA]: Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.\n[00:18.90 - 00:20.30] BLOND NOBLEMAN (Sardonic, Chilling): \"\"A clever story, girl.\"\"\n[00:20.40 - 00:22.70] BLOND NOBLEMAN (Threatening): \"\"But the guards know how to extract the truth.\"\"\n[00:22.80 - 00:26.70] [CAMERA]: Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.\n[00:24.80 - 00:26.50] DOWAGER DUCHESS (Weak, Straining): \"\"Rupert...\"\"\n[00:26.70 - 00:28.40] [CAMERA]: Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.\n[00:26.70 - 00:28.20] DOWAGER DUCHESS (O.S.) (Commanding): \"\"Stop this!\"\"\n[00:28.40 - 00:32.80] [CAMERA]: Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.\n[00:28.80 - 00:30.30] DOWAGER DUCHESS (Desperate, Firm): \"\"She is innocent.\"\"\n[00:30.80 - 00:32.40] DOWAGER DUCHESS (Adamant): \"\"She saved me!\"\"\n[00:32.80 - 00:34.90] [CAMERA]: Close-up of Juliana, tears of relief welling in her eyes.\n[00:33.20 - 00:34.60] JULIANA (Breathless, Relieved): \"\"Your Grace...\"\"\n[00:34.90 - 00:37.70] [CAMERA]: Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.\n[00:35.00 - 00:37.40] DOWAGER DUCHESS (Trembling, Shouting): \"\"I know what happened to me!\"\"",
+    "virality_analysis": {
+      "archetype_name": "Altar Humiliation & Betrayal",
+      "primary_trigger": "Moral Outrage / Empathy",
+      "recommended_platform": "TikTok & Meta Reels (Broadest Demographics)",
+      "expected_ctr_range": "High (4.8% - 6.2%)",
+      "creative_virality_index": 98.5,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "WHEN YOUR OWN SISTER MARRIES YOUR FIANC\u00c9 AT THE ALTAR \ud83d\udc94 | feat. Blond Nobleman",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "She thought it was her wedding day... until she saw who was holding his hand \ud83d\ude31",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "'I changed my mind.' The 4 words that ruined her life \ud83d\ude2d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 00:35.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 10,
+    "promo_id": "KUKU-PROMO-09",
+    "episode": 3,
+    "episode_file": "episode-003-Episode 1671705.txt",
+    "start_time": "00:00.00",
+    "end_time": "00:45.00",
+    "start_sec": 0.0,
+    "end_sec": 45.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.58,
+    "breakdown_scores": {
+      "hook": 9.7,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.8,
+      "visual": 7.8
+    },
+    "hook": "Lady In Gold Gown (mocking, spiteful) says: \"Look at you...\"; Lady In Gold Gown (gloating, scornful) says: \"...still clinging to that little locket as if it can make...\"",
+    "cliffhanger": "Final frame: Close-up on Juliana blinking in disbelief.; Cuts on unanswered question \u2014 Lady Juliana: \"Leave where?\"",
+    "why_it_works": "Multi-character clash between Lady In Gold Gown, Lady Juliana, Noble Matriarch; unanswered questions build mystery that demands resolution; emotional range (hurt, bitter, gloating, scornful, mocking, spiteful)",
+    "suggested_caption": "\"You leave.\" \ud83d\udc80 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "LADY IN GOLD GOWN",
+      "LADY JULIANA",
+      "NOBLE MATRIARCH"
+    ],
+    "script_excerpt": "[00:00.00 - 00:03.50] [CAMERA]: Medium shot on Lady Juliana standing abandoned near the altar in her white gown, clutching her mother's medallion to her chest.\n[00:02.10 - 00:04.20] LADY IN GOLD GOWN (Mocking, Spiteful): \"\"Look at you...\"\"\n[00:03.50 - 00:06.10] [CAMERA]: Medium shot on the Lady in Gold Gown, smiling smugly in her gold gown beside Gerald.\n[00:03.60 - 00:08.20] LADY IN GOLD GOWN (Gloating, Scornful): \"\"...still clinging to that little locket as if it can make you worthy of a place here.\"\"\n[00:06.10 - 00:08.50] [CAMERA]: Close-up profile of Juliana's hand tightly clutching the jeweled silver locket against her breast, tears welling in her eyes.\n[00:08.50 - 00:11.10] [CAMERA]: Medium close-up on Juliana looking across at her sister with wounded pride.\n[00:08.80 - 00:10.80] LADY JULIANA (Hurt, Bitter): \"\"You stole my wedding.\"\"\n[00:11.10 - 00:13.60] [CAMERA]: Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave.\n[00:11.20 - 00:13.40] LADY JULIANA (Defiant): \"\"Don't pretend you've earned anything.\"\"\n[00:13.60 - 00:16.40] [CAMERA]: Close-up of the Lady in Gold Gown smirking derisively.\n[00:13.80 - 00:16.30] LADY IN GOLD GOWN (Smug, Malicious): \"\"I didn't steal what was never truly yours.\"\"\n[00:16.40 - 00:18.60] [CAMERA]: Close-up on Juliana's trembling lips, refusing to break down.\n[00:16.60 - 00:18.40] LADY JULIANA (Trembling, Resolute): \"\"This was my wedding.\"\"\n[00:18.60 - 00:20.50] [CAMERA]: Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him.\n[00:18.70 - 00:20.40] LADY IN GOLD GOWN (Taunting, Cruel): \"\"It was supposed to be.\"\"\n[00:20.50 - 00:22.80] [CAMERA]: Close-up of the Lady in Gold Gown beaming triumphantly.\n[00:20.60 - 00:22.50] LADY IN GOLD GOWN (Vindictive): \"\"Now it is mine.\"\"\n[00:22.80 - 00:25.80] [CAMERA]: Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward.\n[00:23.10 - 00:25.50] NOBLE MATRIARCH (Harsh, Authoritative): \"\"Enough, Juliana.\"\"\n[00:25.80 - 00:28.00] [CAMERA]: Medium close-up of the Noble Matriarch glaring down with icy contempt.\n[00:25.90 - 00:28.00] NOBLE MATRIARCH (Cold, Disgusted): \"\"You have humiliated this family enough for one day.\"\"\n[00:28.00 - 00:30.30] [CAMERA]: Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep.\n[00:30.30 - 00:35.50] [CAMERA]: Medium shot on Juliana as she speaks out against her family's injustice.\n[00:30.40 - 00:33.20] LADY JULIANA (Pained, Betrayed): \"\"I was humiliated by your family.\"\"\n[00:33.30 - 00:35.60] LADY JULIANA (Accusing): \"\"And my father said nothing.\"\"\n[00:35.50 - 00:38.20] [CAMERA]: Medium close-up on the Noble Matriarch, completely unsympathetic.\n[00:36.50 - 00:38.40] NOBLE MATRIARCH (Brutal, Dismissive): \"\"Your father has made his choice.\"\"\n[00:38.20 - 00:40.40] [CAMERA]: Close-up on Juliana's stricken, vulnerable face.\n[00:38.50 - 00:40.40] LADY JULIANA (Choked, Vulnerable): \"\"And what happens to me?\"\"\n[00:40.40 - 00:42.00] [CAMERA]: Close-up of the Noble Matriarch delivering her verdict.\n[00:40.50 - 00:41.90] NOBLE MATRIARCH (Cold, Heartless): \"\"You leave.\"\"\n[00:42.00 - 00:43.30] [CAMERA]: Close-up on Juliana blinking in disbelief.\n[00:42.10 - 00:43.30] LADY JULIANA (Disbelieving): \"\"Leave where?\"\"\n[00:43.30 - 00:45.90] [CAMERA]: Medium shot of the Noble Matriarch looking down her nose in disdain.\n[00:43.40 - 00:46.00] NOBLE MATRIARCH (Cruel, Scornful): \"\"Wherever a discarded daughter belongs.\"\"",
+    "virality_analysis": {
+      "archetype_name": "Altar Humiliation & Betrayal",
+      "primary_trigger": "Moral Outrage / Empathy",
+      "recommended_platform": "TikTok & Meta Reels (Broadest Demographics)",
+      "expected_ctr_range": "High (4.8% - 6.2%)",
+      "creative_virality_index": 98.3,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "WHEN YOUR OWN SISTER MARRIES YOUR FIANC\u00c9 AT THE ALTAR \ud83d\udc94 | feat. Lady In Gold Gown",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "She thought it was her wedding day... until she saw who was holding his hand \ud83d\ude31",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "'I changed my mind.' The 4 words that ruined her life \ud83d\ude2d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 00:45.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 11,
+    "promo_id": "KUKU-PROMO-10",
+    "episode": 32,
+    "episode_file": "episode-032-Episode 1681365.txt",
+    "start_time": "01:10.00",
+    "end_time": "02:05.00",
+    "start_sec": 70.0,
+    "end_sec": 125.0,
+    "duration_sec": 55.0,
+    "composite_score": 9.57,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 8.8,
+      "visual": 9.0
+    },
+    "hook": "Cinematic punch: Close-up of Juliana smiling with genuine liberatio; Juliana (proud) says: \"He lost me.\"",
+    "cliffhanger": "Cuts on unanswered question \u2014 Catherine: \"Why?!\"; Final frame: Close-up of Juliana crying out her defiance.",
+    "why_it_works": "Intense face-off between Catherine and Juliana; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (proud, disdainful, grounded, powerful)",
+    "suggested_caption": "\"Your soldier?\" \ud83d\udc94 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "CATHERINE",
+      "JULIANA"
+    ],
+    "script_excerpt": "[01:09.00 - 01:11.20] [CAMERA]: Close-up of Juliana smiling with genuine liberation.\n[01:09.60 - 01:11.20] JULIANA (Proud): \"\"He lost me.\"\"\n[01:11.20 - 01:13.30] [CAMERA]: Extreme close-up of Catherine's face contorting in sheer fury.\n[01:11.30 - 01:13.20] CATHERINE (Shrieking, Vicious): \"\"You were rejected!\"\"\n[01:13.30 - 01:15.50] [CAMERA]: Close-up of Juliana's calm, resolute face.\n[01:13.40 - 01:17.60] JULIANA (Grounded, Powerful): \"\"I was freed. And I found a man who never asked me what I was worth.\"\"\n[01:15.50 - 01:17.50] [CAMERA]: Wide shot of the cell, steam rising faintly in the cold subterranean air.\n[01:17.50 - 01:20.00] [CAMERA]: Close-up of Catherine sneering with dripping condescension.\n[01:17.80 - 01:19.40] CATHERINE (Disdainful): \"\"Your soldier?\"\"\n[01:20.00 - 01:22.50] [CAMERA]: Close-up of Juliana, her eyes glowing with genuine devotion.\n[01:20.20 - 01:22.00] JULIANA (Tender, Certain): \"\"My husband.\"\"\n[01:22.50 - 01:24.10] [CAMERA]: Close-up of Catherine scowling with deep disgust.\n[01:22.50 - 01:24.00] CATHERINE (Bitter): \"\"He is a nobody.\"\"\n[01:24.10 - 01:26.50] [CAMERA]: Close-up of Juliana smiling softly, totally untroubled.\n[01:24.20 - 01:26.20] JULIANA (Warm, Defiant): \"\"Then I love a nobody.\"\"\n[01:26.50 - 01:29.80] [CAMERA]: Low-angle shot focusing on Juliana's bare, chained feet locked in iron on the stone floor.\n[01:26.50 - 01:30.20] JULIANA (Resonant, Moving): \"\"Because that nobody showed me more love than your entire world ever did.\"\"\n[01:29.80 - 01:32.80] [CAMERA]: Medium close-up of Catherine gripping the branding rod tighter, her upper lip curling in fury.\n[01:30.10 - 01:32.60] CATHERINE (Indignant, Sharp): \"\"You know nothing about my world.\"\"\n[01:32.80 - 01:37.00] [CAMERA]: Medium shot of Juliana sitting in her tattered apron and chains, looking composed.\n[01:33.20 - 01:36.60] JULIANA (Knowing, Sober): \"\"I know exactly what your world values.\"\"\n[01:37.00 - 01:39.80] [CAMERA]: Extreme close-up of Juliana's lips and eyes as she lists them with chilling precision.\n[01:37.60 - 01:39.60] JULIANA (Listing, Deliberate): \"\"Beauty. Money.\"\"\n[01:39.80 - 01:41.00] [CAMERA]: Extreme close-up of Catherine's wide, stunned eyes reacting to the naked truth.\n[01:41.00 - 01:43.70] [CAMERA]: Close-up of Juliana looking up unflinchingly.\n[01:41.20 - 01:43.50] JULIANA (Firm): \"\"Family. A perfect name.\"\"\n[01:43.70 - 01:47.00] [CAMERA]: Low-angle shot of Catherine standing rigid in her gold and purple gown, the guard standing sentinel behind her.\n[01:43.80 - 01:47.20] JULIANA (Continuing): \"\"And a woman who never embarrasses the people standing behind her.\"\"\n[01:47.00 - 01:48.80] [CAMERA]: Close-up of Catherine throwing her hands up in explosive defensiveness.\n[01:47.20 - 01:48.80] CATHERINE (Shouting, Outraged): \"\"And what is wrong with that?!\"\"\n[01:48.80 - 01:49.40] [CAMERA]: Close-up of Catherine's face twisting in absolute venom.\n[01:49.40 - 01:52.50] [CAMERA]: Close-up of Juliana looking serene.\n[01:49.50 - 01:52.80] JULIANA (Gentle, Penetrating): \"\"Nothing. Until you have nothing left beneath it.\"\"\n[01:52.50 - 01:56.00] [CAMERA]: Medium shot of Catherine standing motionless, holding the iron rod, struck to the core by the insult.\n[01:52.80 - 01:56.00] JULIANA (Unrelenting): \"\"You have spent your whole life collecting things that make people bow...\"\"\n[01:56.00 - 01:56.80] [CAMERA]: Low-angle shot of Juliana's chained hands folded peacefully in her lap.\n[01:56.80 - 01:59.50] [CAMERA]: Medium close-up of Juliana looking up with quiet pity.\n[01:56.90 - 01:59.50] JULIANA (Piercing): \"\"...but you have never learned how to make anyone love you.\"\"\n[01:59.50 - 02:01.80] [CAMERA]: Medium shot of Catherine snapping entirely, raising the branding poker like a weapon and screaming.\n[01:59.60 - 02:01.80] CATHERINE (Hysterical, Screaming): \"\"Silence! Silence!\"\"\n[02:01.80 - 02:03.00] [CAMERA]: Close-up of Catherine's crazed, gasping face.\n[02:01.80 - 02:02.80] CATHERINE (Shrieking): \"\"Why?!\"\"\n[02:02.80 - 02:05.00] [CAMERA]: Close-up of Juliana crying out her defiance.\n[02:03.00 - 02:05.20] JULIANA (Forceful): \"\"Because I am right!\"\"\n[02:05.00 - 02:08.50] [CAMERA]: Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming.",
+    "virality_analysis": {
+      "archetype_name": "Altar Humiliation & Betrayal",
+      "primary_trigger": "Moral Outrage / Empathy",
+      "recommended_platform": "TikTok & Meta Reels (Broadest Demographics)",
+      "expected_ctr_range": "High (4.8% - 6.2%)",
+      "creative_virality_index": 98.2,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "WHEN YOUR OWN SISTER MARRIES YOUR FIANC\u00c9 AT THE ALTAR \ud83d\udc94 | feat. Catherine",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "She thought it was her wedding day... until she saw who was holding his hand \ud83d\ude31",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "'I changed my mind.' The 4 words that ruined her life \ud83d\ude2d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 02:05.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 12,
+    "promo_id": "KUKU-PROMO-11",
+    "episode": 29,
+    "episode_file": "episode-029-Episode 1678582.txt",
+    "start_time": "00:10.00",
+    "end_time": "00:45.00",
+    "start_sec": 10.0,
+    "end_sec": 45.0,
+    "duration_sec": 35.0,
+    "composite_score": 9.54,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.7,
+      "standalone": 9.0,
+      "emotional": 9.8,
+      "visual": 7.8
+    },
+    "hook": "Cinematic punch: Tight close-up of Juliana's tearful face as she re; Juliana (desperate, weeping) says: \"Catherine! Please! That book is my mother's only legacy!\"",
+    "cliffhanger": "Catherine delivers: \"I know exactly what I need him to believe.\" \u2014 then cut; Juliana delivers: \"You cannot just destroy it!\" \u2014 then cut",
+    "why_it_works": "Intense face-off between Catherine and Juliana; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (desperate, weeping, pleading, agonized, cruel, smug)",
+    "suggested_caption": "\"You still call this a legacy?\" \ud83d\ude24 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "CATHERINE",
+      "JULIANA"
+    ],
+    "script_excerpt": "[00:07.40 - 00:11.70] [CAMERA]: Tight close-up of Juliana's tearful face as she reaches an arm out toward Catherine in anguish.\n[00:07.40 - 00:11.70] JULIANA (Desperate, Weeping): \"\"Catherine! Please! That book is my mother's only legacy!\"\"\n[00:11.70 - 00:13.20] [CAMERA]: Medium shot from behind Catherine as she stands motionless, watching Juliana being dragged away.\n[00:13.20 - 00:17.30] [CAMERA]: Close-up of Juliana turning her head back toward Catherine, screaming through tears.\n[00:13.20 - 00:17.30] JULIANA (Pleading, Agonized): \"\"It contains years of her work! Her knowledge! Everything she left me!\"\"\n[00:17.30 - 00:20.10] [CAMERA]: Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side.\n[00:20.10 - 00:26.80] [CAMERA]: Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands.\n[00:21.00 - 00:24.00] CATHERINE (Mocking, Condescending): \"\"Your mother's little book of weeds?\"\"\n[00:24.80 - 00:26.70] CATHERINE (Cruel, Smug): \"\"You still call this a legacy?\"\"\n[00:26.80 - 00:28.90] [CAMERA]: Close-up of Juliana held firmly between the guards, glaring back with fierce defiance.\n[00:27.10 - 00:28.70] JULIANA (Defiant, Furious): \"\"It is medicine!\"\"\n[00:28.90 - 00:31.90] [CAMERA]: Medium close-up of Catherine smiling condescendingly.\n[00:30.40 - 00:31.80] CATHERINE (Smooth, Patronizing): \"\"Of course.\"\"\n[00:31.90 - 00:37.40] [CAMERA]: Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations.\n[00:31.90 - 00:37.30] CATHERINE (O.S.) (Disdainful, Calculating): \"\"Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand.\"\"\n[00:37.40 - 00:40.00] [CAMERA]: Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent.\n[00:37.70 - 00:40.00] CATHERINE (Icy, Threatening): \"\"The magistrate will call it witchcraft.\"\"\n[00:40.00 - 00:41.90] [CAMERA]: Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation.\n[00:40.10 - 00:41.80] JULIANA (Furious, Shouted): \"\"You know that is a lie!\"\"\n[00:41.90 - 00:44.30] [CAMERA]: Medium shot of Catherine lifting her chin arrogantly against the stone backdrop.\n[00:42.00 - 00:44.20] CATHERINE (Calm, Sinister): \"\"I know exactly what I need him to believe.\"\"\n[00:44.30 - 00:46.90] [CAMERA]: Medium shot of Juliana thrashing frantically against the two guards.\n[00:44.40 - 00:46.50] JULIANA (Screaming, Desperate): \"\"You cannot just destroy it!\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 97.9,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Catherine",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 00:45.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 13,
+    "promo_id": "KUKU-PROMO-12",
+    "episode": 15,
+    "episode_file": "episode-015-Episode 1671717.txt",
+    "start_time": "00:40.00",
+    "end_time": "01:25.00",
+    "start_sec": 40.0,
+    "end_sec": 85.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.52,
+    "breakdown_scores": {
+      "hook": 9.7,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 8.6,
+      "visual": 9.0
+    },
+    "hook": "Cinematic punch: Medium close-up of the Thug with Cap scoffing deri; Thug With Cap (sneering, disdainful) says: \"A noble lady playing in the dirt. What a joke.\"",
+    "cliffhanger": "Cuts on unanswered question \u2014 Thug With Cap: \"What? You want to fight us, veteran?\"; Final frame: Close-up of Juliana looking up with wide, anx",
+    "why_it_works": "Multi-character clash between Thug With Cap, Juliana, Bald Thug; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (menacing snarl, steely, fearless, resolute, dignified)",
+    "suggested_caption": "\"Look at her! Crying over weeds!\" \u26a1 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "BALD THUG",
+      "JULIANA",
+      "THUG WITH CAP"
+    ],
+    "script_excerpt": "[00:37.00 - 00:40.50] [CAMERA]: Medium close-up of the Thug with Cap scoffing derisively.\n[00:37.20 - 00:40.40] THUG WITH CAP (Sneering, Disdainful): \"\"A noble lady playing in the dirt. What a joke.\"\"\n[00:40.50 - 00:44.20] [CAMERA]: Medium close-up of Juliana, her eyes blazing with indignation and wounded pride.\n[00:41.00 - 00:44.00] JULIANA (Resolute, Dignified): \"\"It is my home. You have no right to destroy anything here.\"\"\n[00:44.20 - 00:46.50] [CAMERA]: Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.\n[00:44.80 - 00:46.40] THUG WITH CAP (Menacing Snarl): \"\"Get out of the way!\"\"\n[00:46.50 - 00:48.00] [CAMERA]: Extreme close-up on Juliana's piercing blue eyes and set jaw, unflinching.\n[00:46.50 - 00:47.30] JULIANA (Steely, Fearless): \"\"No.\"\"\n[00:47.40 - 00:49.50] [ACTION]: The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.\n[00:47.80 - 00:49.00] JULIANA (Gasping Cry): \"\"Ah!\"\"\n[00:49.50 - 00:53.50] [CAMERA]: Close-up tracking down to Juliana's hand hitting the mud next to the crushed chamomile flowers.\n[00:50.00 - 00:53.50] [ACTION]: Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.\n[00:53.50 - 00:56.50] [CAMERA]: Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony.\n[00:53.50 - 00:55.70] JULIANA (Broken, Sobbing): \"\"My mother's plants...\"\"\n[00:56.50 - 01:00.00] [CAMERA]: Low-angle wide shot of the three thugs pointing and laughing hysterically at her kneeling form.\n[00:57.30 - 00:59.80] BALD THUG (Cruel, Laughing): \"\"Look at her! Crying over weeds!\"\"\n[01:00.00 - 01:02.00] [ACTION]: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.\n[01:00.00 - 01:01.00] JULIANA (Screaming): \"\"Stop!\"\"\n[01:02.00 - 01:03.20] [CAMERA]: Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness.\n[01:03.20 - 01:07.50] [CAMERA]: Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him.\n[01:03.50 - 01:07.50] [ACTION]: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.\n[01:07.50 - 01:13.50] [CAMERA]: Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief.\n[01:10.50 - 01:12.60] JULIANA (Whispered Breath, Stunned): \"\"Alexander...\"\"\n[01:13.50 - 01:15.50] [CAMERA]: Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist.\n[01:15.50 - 01:18.50] [CAMERA]: Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders.\n[01:16.00 - 01:18.50] [ACTION]: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.\n[01:18.50 - 01:22.80] [CAMERA]: Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club.\n[01:19.00 - 01:22.40] THUG WITH CAP (Challenging, Arrogant): \"\"What? You want to fight us, veteran?\"\"\n[01:22.80 - 01:26.00] [CAMERA]: Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge.\n[01:24.00 - 01:26.00] [SOUND FX]: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 97.7,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Bald Thug",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 01:25.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 14,
+    "promo_id": "KUKU-PROMO-13",
+    "episode": 31,
+    "episode_file": "episode-031-Episode 1681364.txt",
+    "start_time": "01:20.00",
+    "end_time": "02:05.00",
+    "start_sec": 80.0,
+    "end_sec": 125.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.52,
+    "breakdown_scores": {
+      "hook": 9.8,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 8.5,
+      "visual": 8.5
+    },
+    "hook": "Cinematic punch: Medium close-up of Catherine, holding the smolderi; Catherine (incredulous, mocking) says: \"You call that marriage?\"",
+    "cliffhanger": "Cuts on unanswered question \u2014 Juliana: \"Then why are you so desperate to make me kneel?\"; Juliana delivers: \"If you were truly powerful, Catherine, you wouldn't ...\" \u2014 then cut",
+    "why_it_works": "Intense face-off between Catherine and Juliana; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (pure, sincere, incredulous, mocking, firm, piercing)",
+    "suggested_caption": "\"[laughs] Love? Look where your precious love br...\" \u26a1 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "CATHERINE",
+      "JULIANA"
+    ],
+    "script_excerpt": "[01:17.60 - 01:20.50] [CAMERA]: Medium close-up of Catherine, holding the smoldering iron between them.\n[01:17.80 - 01:20.20] CATHERINE (Incredulous, Mocking): \"\"You call that marriage?\"\"\n[01:20.50 - 01:23.20] [CAMERA]: Extreme close-up of Juliana's clear blue eyes, shining with profound conviction.\n[01:20.80 - 01:23.20] JULIANA (Pure, Sincere): \"\"I call it love.\"\"\n[01:23.20 - 01:28.00] [CAMERA]: High-angle wide shot looking straight down through the ceiling iron grating into the deep dungeon shaft where Catherine looms over Juliana.\n[01:23.50 - 01:27.40] CATHERINE (Mocking, Hysterical Laugh): \"\"[laughs] Love? Look where your precious love brought you.\"\"\n[01:27.50 - 01:31.20] [CAMERA]: Medium close-up of Juliana looking directly up past the glowing tip of the iron poker into Catherine's eyes.\n[01:27.80 - 01:31.20] JULIANA (Firm, Piercing): \"\"To a place where I can still look you in the eyes.\"\"\n[01:31.20 - 01:34.20] [CAMERA]: Close-up of Catherine, her lips curling in indignant disbelief.\n[01:31.40 - 01:34.20] CATHERINE (Incredulous, Offended): \"\"You think love makes you better than me?\"\"\n[01:34.20 - 01:38.20] [CAMERA]: Close-up of Juliana speaking calmly and razor-sharp.\n[01:34.50 - 01:38.20] JULIANA (Calm, Cutting): \"\"No. But cruelty certainly doesn't make you better than me.\"\"\n[01:38.20 - 01:43.50] [CAMERA]: Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence.\n[01:38.50 - 01:43.30] CATHERINE (Incensed, Boastful): \"\"I have beauty, money, family, status! What do you have?\"\"\n[01:43.50 - 01:48.80] [CAMERA]: Close-up of Juliana, her expression serene and grounded in moral superiority.\n[01:43.70 - 01:48.50] JULIANA (Quiet, Powerful): \"\"Knowledge. Love. And people who need me.\"\"\n[01:48.80 - 01:50.50] [CAMERA]: Tight shot of Catherine's gloved hands holding Juliana's mother's partially burned botanical volume, 'The Virtues of Plants & Herbs'.\n[01:50.20 - 01:51.40] CATHERINE (Sneering, Derisive): \"\"[scoffs] Peasants? People?\"\"\n[01:51.50 - 01:58.20] [CAMERA]: Medium shot of Catherine casually holding the ancient book while pacing slowly before Juliana.\n[01:51.60 - 01:58.20] CATHERINE (Arrogant, Elitist): \"\"That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve.\"\"\n[01:58.20 - 02:02.50] [CAMERA]: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk.\n[01:58.40 - 02:02.00] JULIANA (Piercing, Provocative): \"\"Then why are you so desperate to make me kneel?\"\"\n[02:02.00 - 02:04.00] [ACTION]: Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.\n[02:04.00 - 02:10.80] [CAMERA]: Low-angle medium shot of Juliana, her voice ringing clearly through the subterranean chamber.\n[02:04.20 - 02:10.50] JULIANA (Accusatory, Commanding): \"\"If you were truly powerful, Catherine, you wouldn't need me to bow.\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 97.7,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Catherine",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 02:05.00 prevents viewer closure, driving app install conversions."
+    }
+  },
+  {
+    "rank": 15,
+    "promo_id": "KUKU-PROMO-14",
+    "episode": 34,
+    "episode_file": "episode-034-Episode 1681367.txt",
+    "start_time": "00:30.00",
+    "end_time": "01:15.00",
+    "start_sec": 30.0,
+    "end_sec": 75.0,
+    "duration_sec": 45.0,
+    "composite_score": 9.52,
+    "breakdown_scores": {
+      "hook": 9.7,
+      "cliffhanger": 9.9,
+      "standalone": 9.0,
+      "emotional": 9.0,
+      "visual": 8.3
+    },
+    "hook": "Cinematic punch: Close-up of the Judge leaning forward across his b; Judge (hard, pressing) says: \"Then you admit to practicing forbidden arts.\"",
+    "cliffhanger": "Final frame: Close-up of Prudence's tear-streaked face as ; Prudence delivers: \"She... placed herbs around my brother's bed.\" \u2014 then cut",
+    "why_it_works": "Multi-character clash between Prudence, Lady Juliana, Judge; rapid accusation-and-denial rhythm keeps viewers locked in; emotional range (hard, pressing, proud, dignified, commanding)",
+    "suggested_caption": "\"Silence!\" \ud83d\udd25 #MicroDrama #ShortSeries",
+    "posting_recommendation": "Secondary Acquisition: strong cliffhanger for retargeting.",
+    "characters_involved": [
+      "LADY JULIANA",
+      "PRUDENCE",
+      "JUDGE"
+    ],
+    "script_excerpt": "[00:27.40 - 00:31.70] [CAMERA]: Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.\n[00:27.50 - 00:31.20] JUDGE (Hard, Pressing): \"\"Then you admit to practicing forbidden arts.\"\"\n[00:31.70 - 00:35.30] [CAMERA]: Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.\n[00:33.20 - 00:35.10] LADY JULIANA (Proud, Dignified): \"\"I admit to healing the sick.\"\"\n[00:35.30 - 00:37.40] [ACTION]: The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.\n[00:35.40 - 00:36.60] JUDGE (Furious, Shouting): \"\"Silence!\"\"\n[00:35.80 - 00:37.00] [SOUND FX]: [Sharp, echoing crack of the gavel slamming onto wood]\n[00:35.80 - 00:37.40] [CAMERA]: Medium shot of the Judge slamming the gavel down on his bench.\n[00:37.40 - 00:42.50] [CAMERA]: Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.\n[00:37.50 - 00:41.20] JUDGE (Commanding): \"\"Prudence. You served beside the accused?\"\"\n[00:41.00 - 00:43.00] [ACTION]: Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.\n[00:42.50 - 00:44.80] [CAMERA]: Medium close-up of Prudence looking up with tears streaming down her pale face.\n[00:43.20 - 00:44.60] PRUDENCE (Trembling, Tearful): \"\"Yes, Your Honor.\"\"\n[00:44.80 - 00:49.00] [CAMERA]: Medium close-up of the Judge leaning forward with folded hands.\n[00:45.30 - 00:48.80] JUDGE (Probing, Formal): \"\"Did you witness Lady Juliana perform these treatments?\"\"\n[00:49.00 - 00:51.50] [CAMERA]: Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock.\n[00:49.10 - 00:50.50] LADY JULIANA (Softly, Urgent): \"\"Tell the truth.\"\"\n[00:51.50 - 00:54.80] [CAMERA]: Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.\n[00:53.00 - 00:54.20] PRUDENCE (Sobbing, Heartbroken): \"\"Yes.\"\"\n[00:54.80 - 00:57.60] [CAMERA]: Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.\n[00:57.60 - 01:00.80] [CAMERA]: Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.\n[00:58.20 - 01:00.10] JUDGE (Measured, Stern): \"\"What did you see?\"\"\n[01:00.80 - 01:04.60] [CAMERA]: Medium close-up of Prudence clutching both hands to her chest in anguish.\n[01:01.30 - 01:04.40] PRUDENCE (Choked with Tears): \"\"She used herbs... and her mother's book.\"\"\n[01:04.60 - 01:06.80] [CAMERA]: Medium shot of the Judge leaning back slightly, pointing his hand accusingly.\n[01:04.80 - 01:06.70] JUDGE (Pressing, Sharp): \"\"Did she draw strange markings?\"\"\n[01:06.80 - 01:11.80] [CAMERA]: Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.\n[01:08.20 - 01:11.70] PRUDENCE (Faltering, Desperate): \"\"She... placed herbs around my brother's bed.\"\"\n[01:11.80 - 01:15.80] [CAMERA]: Medium shot of the Judge pointing an outstretched index finger with piercing intensity.\n[01:12.10 - 01:15.50] JUDGE (Accusatory, Forceful): \"\"And did she speak words you could not understand?\"\"",
+    "virality_analysis": {
+      "archetype_name": "Hidden Identity / Royal Reveal",
+      "primary_trigger": "Catharsis & Status Inversion",
+      "recommended_platform": "YouTube Shorts & Meta Ads (High Retention)",
+      "expected_ctr_range": "Very High (5.2% - 7.0%)",
+      "creative_virality_index": 97.7,
+      "ab_test_hook_overlays": [
+        {
+          "variant": "A (Outrage / Shock)",
+          "headline": "HE THOUGHT SHE WAS A BEGGAR... UNTIL THE DUKE ARRIVED \ud83d\udc51 | feat. Lady Juliana",
+          "target": "Top of Funnel (Cold Audience)"
+        },
+        {
+          "variant": "B (Curiosity / Suspense)",
+          "headline": "'She is my lawful wife and the Duchess.' The truth comes out \ud83d\udd25",
+          "target": "Retargeting / Drama Buffs"
+        },
+        {
+          "variant": "C (Romantic Revenge)",
+          "headline": "They kicked her out of the church... then a billionaire Duke knelt before her \ud83d\udc8d",
+          "target": "Female 18-35 Core Microdrama Demo"
+        }
+      ],
+      "paywall_cut_moment": "Hard cutoff at 01:15.00 prevents viewer closure, driving app install conversions."
+    }
+  }
+]

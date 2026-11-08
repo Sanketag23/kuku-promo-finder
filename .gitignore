@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+env/
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+
+# Large zip archives
+*.zip
