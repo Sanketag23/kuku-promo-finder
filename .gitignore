@@ -11,5 +11,11 @@ __pycache__/
 # System files
 .DS_Store
 
-# Large zip archives
+# Large archives and raw confidential assignment inputs
 *.zip
+*.pdf
+*.xlsx
+*.csv
+I Married a Broken Soldier. He was a Duke/
+!raw_outputs/final_ranked_promos.csv
+!Kuku_Solution_Document_Sanket_Agarwal.pdf
