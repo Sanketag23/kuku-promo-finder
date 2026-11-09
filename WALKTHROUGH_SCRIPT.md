@@ -47,3 +47,4 @@
   > Because this analyzes screenplay text, it can under-rank silent visual tension or visual comedy where words are sparse. It also requires human-in-the-loop oversight on lore-heavy arguments where characters shout about complex wills that a cold viewer might not understand.
   > In production, this text pipeline would be paired with audio decibel peaks and computer vision frame analysis.
   > The full 2-page solution document and raw datasets in CSV and JSON are submitted. Thank you for your time!"*
+
