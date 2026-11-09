@@ -28,68 +28,180 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for Mobile Video Simulator and Cards
+# Custom CSS for Realistic iPhone 16 Pro Frame & Vertical TikTok Player
 st.markdown("""
 <style>
-.phone-simulator {
-    background: #111827;
-    border: 3px solid #374151;
-    border-radius: 28px;
-    padding: 20px;
-    max-width: 360px;
-    margin: 0 auto;
-    color: #F9FAFB;
-    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 10px 10px -5px rgba(0, 0, 0, 0.4);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+/* iPhone 16 Pro Device Frame */
+.iphone-frame {
+    width: 290px;
+    height: 580px;
+    background: #000000;
+    border-radius: 44px;
+    box-shadow: 
+        0 0 0 4px #2c2c2e,
+        0 0 0 7px #1c1c1e,
+        0 25px 50px -12px rgba(0, 0, 0, 0.7);
+    padding: 12px;
+    margin: 10px auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
 }
-.phone-notch {
-    width: 120px;
-    height: 18px;
-    background: #1F2937;
-    margin: 0 auto 15px auto;
-    border-radius: 0 0 12px 12px;
+
+/* Inner Screen with 9:16 vertical video atmosphere */
+.iphone-screen {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, #180509 0%, #0d0d12 40%, #050508 100%);
+    border-radius: 34px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 12px 14px 12px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.08);
 }
-.hook-banner {
-    background: linear-gradient(90deg, #E11D48, #BE123C);
-    color: white;
+
+/* Dynamic Island */
+.dynamic-island {
+    width: 84px;
+    height: 22px;
+    background: #000000;
+    border-radius: 20px;
+    margin: 2px auto 8px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 7px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+.camera-lens {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #0f172a;
+    border: 1px solid #1e293b;
+}
+.sensor {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #020617;
+}
+
+/* Top Status Bar in Phone */
+.status-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 10px;
+    color: #94a3b8;
+    margin-bottom: 8px;
+    padding: 0 4px;
+    font-weight: 600;
+}
+
+/* Viral Hook Text Overlay (Top of Screen) */
+.hook-overlay-box {
+    background: rgba(225, 29, 72, 0.95);
+    color: #ffffff;
     font-weight: 800;
-    font-size: 13px;
+    font-size: 11px;
+    line-height: 1.3;
     text-transform: uppercase;
-    padding: 8px 12px;
+    padding: 8px 10px;
     border-radius: 8px;
     text-align: center;
-    letter-spacing: 0.5px;
-    margin-bottom: 15px;
-    animation: pulse 2s infinite;
+    letter-spacing: 0.3px;
+    box-shadow: 0 4px 12px rgba(225, 29, 72, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin-bottom: 8px;
 }
-.dialogue-bubble {
-    background: rgba(31, 41, 55, 0.85);
-    border-left: 3px solid #F43F5E;
-    padding: 10px 14px;
-    border-radius: 6px;
-    font-size: 12px;
-    margin-bottom: 10px;
-    line-height: 1.4;
+
+/* Mid screen Dramatic Scene simulation */
+.scene-center {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 8px 0;
 }
-.cliff-box {
-    background: #000000;
-    border: 1px dashed #EF4444;
-    padding: 8px;
-    border-radius: 6px;
-    text-align: center;
-    color: #F87171;
-    font-size: 11px;
-    font-weight: bold;
-    margin-top: 15px;
+.live-badge {
+    background: rgba(0, 0, 0, 0.65);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 9px;
+    color: #e2e8f0;
+    margin-bottom: 8px;
 }
-.cvi-badge {
-    background: #059669;
-    color: white;
-    padding: 4px 10px;
+
+/* TikTok / Reels Right Action Sidebar */
+.tiktok-actions {
+    position: absolute;
+    right: 4px;
+    bottom: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    z-index: 5;
+}
+.action-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    font-size: 8px;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+}
+.action-icon {
+    font-size: 17px;
+    margin-bottom: 2px;
+}
+
+/* Dialogue Subtitle on Video */
+.dialogue-subtitle {
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(6px);
+    border-left: 3px solid #e11d48;
+    padding: 6px 8px;
+    border-radius: 4px;
+    font-size: 10px;
+    color: #f8fafc;
+    line-height: 1.35;
+    margin-bottom: 8px;
+    max-width: 82%;
+}
+
+/* Bottom Paywall Cutout & CTA Button */
+.paywall-cta {
+    background: linear-gradient(135deg, #e11d48 0%, #be123c 100%);
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 10px;
+    padding: 7px 10px;
     border-radius: 20px;
-    font-size: 11px;
-    font-weight: bold;
-    display: inline-block;
+    text-align: center;
+    box-shadow: 0 4px 14px rgba(225, 29, 72, 0.5);
+    margin-bottom: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+/* iPhone Home Indicator Bar */
+.home-indicator {
+    width: 90px;
+    height: 4px;
+    background: #ffffff;
+    opacity: 0.6;
+    border-radius: 3px;
+    margin: 4px auto 0 auto;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -238,27 +350,64 @@ with tab1:
                 st.code(p.get("script_excerpt", ""), language="text")
 
             with card_col2:
-                # 9:16 Vertical Phone Simulator
+                # Realistic iPhone 16 Pro 9:16 Vertical Video Player Mockup
+                lead_char = p.get('characters_involved', ['Juliana'])[0] if p.get('characters_involved') else 'Lead'
+                caption_text = p.get('suggested_caption', 'Watch the full betrayal unfold on Kuku.')
+                cvi_val = vir.get('creative_virality_index', 99)
+
                 st.markdown(f"""
-                <div class="phone-simulator">
-                    <div class="phone-notch"></div>
-                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-                        <span style="font-size: 11px; opacity: 0.8;">TikTok / Reels 9:16 Ad</span>
-                        <span class="cvi-badge">🔥 CVI: {vir.get('creative_virality_index', 98)}</span>
-                    </div>
-                    <div class="hook-banner">
-                        {top_hook}
-                    </div>
-                    <div style="font-size: 11px; color: #9CA3AF; margin-bottom: 8px;">
-                        ⏱️ Duration: <b>{p['duration_sec']}s</b> | Cut: {p['start_time']} to {p['end_time']}
-                    </div>
-                    <div class="dialogue-bubble">
-                        <b>{p.get('characters_involved', ['Juliana'])[0] if p.get('characters_involved') else 'Lead'}:</b><br/>
-                        "{p.get('suggested_caption', 'Watch the full betrayal unfold on Kuku.')}"
-                    </div>
-                    <div class="cliff-box">
-                        🛑 PAYWALL SMASH CUT AT {p['end_time']}<br/>
-                        <span style="font-size: 9px; font-weight: normal; color: #D1D5DB;">"Tap below to watch Episode {p['episode']} on Kuku TV"</span>
+                <div class="iphone-frame">
+                    <div class="iphone-screen">
+                        <!-- Dynamic Island & Status -->
+                        <div>
+                            <div class="dynamic-island">
+                                <div class="sensor"></div>
+                                <div class="camera-lens"></div>
+                            </div>
+                            <div class="status-bar">
+                                <span>9:41</span>
+                                <span style="background: rgba(16, 185, 129, 0.25); color: #34d399; padding: 1px 6px; border-radius: 8px; font-size: 8px;">★ CVI {cvi_val}</span>
+                                <span>5G 88%</span>
+                            </div>
+                        </div>
+
+                        <!-- Viral Hook Text Banner (Top 3 Seconds) -->
+                        <div>
+                            <div class="hook-overlay-box">
+                                {top_hook}
+                            </div>
+                            <div style="font-size: 8px; color: #94a3b8; text-align: center; margin-bottom: 4px;">
+                                ⏱️ {p['duration_sec']}s Clip | Cut: {p['start_time']} - {p['end_time']}
+                            </div>
+                        </div>
+
+                        <!-- Mid Video & Right Social Icons -->
+                        <div class="scene-center">
+                            <div class="live-badge">🎬 Ep {p['episode']} Vertical Ad</div>
+                            <div style="color: #64748b; font-size: 8px; text-align: center; font-style: italic;">
+                                [High-Drama Video Playback]
+                            </div>
+
+                            <!-- TikTok/Reels Right Action Column -->
+                            <div class="tiktok-actions">
+                                <div class="action-btn"><span class="action-icon">❤️</span><span>142K</span></div>
+                                <div class="action-btn"><span class="action-icon">💬</span><span>3,842</span></div>
+                                <div class="action-btn"><span class="action-icon">🔖</span><span>24K</span></div>
+                                <div class="action-btn"><span class="action-icon">↗️</span><span>Share</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Bottom Subtitle + Paywall CTA + Home Bar -->
+                        <div>
+                            <div class="dialogue-subtitle">
+                                <b style="color: #fda4af;">@{lead_char.lower().replace(' ', '')}:</b> {caption_text}
+                            </div>
+                            <div class="paywall-cta">
+                                🛑 CLIFFHANGER CUT AT {p['end_time']}<br/>
+                                <span style="font-size: 8px; font-weight: normal; opacity: 0.95;">Install Kuku to Watch Episode {p['episode']}</span>
+                            </div>
+                            <div class="home-indicator"></div>
+                        </div>
                     </div>
                 </div>
                 """, unsafe_allow_html=True)
